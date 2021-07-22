@@ -1,7 +1,4 @@
-# Blog
+# Blog Website
 
-This is a readme file for our github repo
+This is a blog website where you can write,edit,delete your blogs.
 
-# Example
-
-This is another example
