@@ -16,3 +16,8 @@ This is a blog website where you can write,edit,delete your blogs.
 
 3. Blog Page
 ![2021-07-22 (10)](https://user-images.githubusercontent.com/68457095/126766409-f21ed911-9fec-4a87-8117-308974adec03.png)
+
+
+4. Blog Writting Page
+![2021-07-22 (9)](https://user-images.githubusercontent.com/68457095/126766524-f056fe75-5b6b-47fd-a6ea-dc431bebe81b.png)
+
